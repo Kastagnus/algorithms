@@ -22,6 +22,7 @@ Use:
 6. Get all the algorithm names added by manager.add_algorithm method
 
 All the algorithms itself are given into tasks1.py
+
 If you will run app.py you will see the small interface where all 50 algorithms are loaded and you
 can run test cases from there, see explanations and source code
 
