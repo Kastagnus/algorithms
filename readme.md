@@ -7,11 +7,11 @@ In algo_manager you will find alogirthm manager which will help you to run algor
 getting source code and explanation
 
 Step by step guide:
->> git clone https://github.com/Kastagnus/algorithms.git
+> git clone https://github.com/Kastagnus/algorithms.git
 
->> cd algorithms
+> cd algorithms
 
->> pip install -r requirements.txt
+> pip install -r requirements.txt
 
 Use:
 1. manager.add_algorithm("Algorithm name", Algorithm) it is already done
